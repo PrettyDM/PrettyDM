@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PrettyDM
-- 👀 I’m interested in Data Science & Analytics, Quantitative Finance, and AI generated Art
-- 🌱 I’m currently learning about what i'm interested in
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+👋 Hi, I'm Derek
+- 👀 I’m interested in Web 3, Data Science & Analytics, Quantitative Finance, and Finance in general
+- 🌱 I’m currently using this GitHub profile to be accountable for learning.
+- I am no expert at anything but I work for DeFI startup based in Solana that specialized in automated market-making for LP-ers at Decentralized Exchanges
 
-<!---
-PrettyDM/PrettyDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach out to me at:
+ - Twitter/X: @DeFiDeRekt (https://x.com/DeFiDeRekt)
+ - LinkedIn: https://www.linkedin.com/in/derekjohnm/
